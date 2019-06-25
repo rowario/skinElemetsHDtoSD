@@ -1,4 +1,4 @@
-# skin_elements_resize
+# skin elements resize
 Small script for resize all your skin elements from @2x to default sizes
 # how to use
 install node.js from https://nodejs.org
