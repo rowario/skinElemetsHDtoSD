@@ -1,7 +1,7 @@
 # skin elements resize
 Small script for resize all your skin elements from @2x to default sizes
 
-i didn't know about Roan's programm when i do this, his one is better for use https://osu.ppy.sh/community/forums/topics/762684
+i didn't know about Roan's programm when i do this, his version is better for use https://osu.ppy.sh/community/forums/topics/762684
 
 # how to use
 install node.js from https://nodejs.org
