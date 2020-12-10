@@ -1,17 +1,14 @@
 # skin elements resize
-Small script for resize all your skin elements from @2x to default sizes
-
-i didn't know about Roan's programm when i do this, his version is better for use https://osu.ppy.sh/community/forums/topics/762684
-
+Small script for resizing all your skin elements from HD to SD sizes
 # how to use
 install node.js from https://nodejs.org
 
-clone repository or download
+1. clone repository or download zip archive
 
-use install.bat for install script components
+2. use install.bat(install dependencies)
 
-put all your files to "/to_resize" folder
+3. put all your HD(@2x) images to "/to_resize" folder
 
-use script.bat for resize
+4. use script.bat
 
-all resized files will be in "/output" folder
+done, all resized SD images will be in "/output" folder
