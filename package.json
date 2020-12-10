@@ -1,15 +1,15 @@
 {
-  "name": "testscript",
-  "version": "1.0.0",
+  "name": "skinElementsHDtoSD",
+  "version": "2.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "image-size": "^0.7.4",
-    "sharp": "^0.22.1"
+    "image-size": "latest",
+    "sharp": "latest"
   }
 }

@@ -1,1 +1,1 @@
-start cmd.exe /k "node index.js"
+start cmd.exe /k "node app.js"
