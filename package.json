@@ -1,13 +1,13 @@
 {
   "name": "skinElementsHDtoSD",
   "version": "2.0",
-  "description": "",
+  "description": "Small script for resizing all your skin elements from HD to SD sizes",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "rowario",
+  "license": "MIT",
   "dependencies": {
     "image-size": "latest",
     "sharp": "latest"
