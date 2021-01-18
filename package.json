@@ -1,15 +1,28 @@
 {
-  "name": "skinElementsHDtoSD",
-  "version": "2.0",
+  "name": "skinelemetshdtosd",
+  "version": "2.0.1",
   "description": "Small script for resizing all your skin elements from HD to SD sizes",
   "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "rowario",
-  "license": "MIT",
   "dependencies": {
-    "image-size": "latest",
-    "sharp": "latest"
-  }
+    "image-size": "^0.9.3",
+    "sharp": "^0.27.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rowario/skinElemetsHDtoSD.git"
+  },
+  "keywords": [
+    "osu",
+    "skinning"
+  ],
+  "author": "Rowario",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rowario/skinElemetsHDtoSD/issues"
+  },
+  "homepage": "https://github.com/rowario/skinElemetsHDtoSD#readme"
 }
